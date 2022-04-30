@@ -39,10 +39,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/JoshDroid250"><img src="https://img.shields.io/badge/-twitter.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://twitter.com/JoshDroid250"><img src="https://img.shields.io/badge/-twitter.com-3423A6?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
