@@ -3,10 +3,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;I really love the style of material or minimalist design.\
+
+📎 &nbsp;I am a young systems engineering student, who in turn improves his knowledge through courses :D.\
+💡 &nbsp;I love to practice with fun projects that motivate me to continue learning.\
+🎓 &nbsp;In the future I hope to stand out and contribute a lot to the community of programmers.\
+🌱 &nbsp;I love the style of material or minimalist design too much, both in web and mobile developments.\
 💬 &nbsp;In my spare time I like to learn new things about programming.\
 
 
