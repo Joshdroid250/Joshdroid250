@@ -29,12 +29,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/Joshdroid250/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshdroid250&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshdroid250&repo=convoychat" />
-</a>
+<p align="center">
+<a href="https://github.com/Joshdroid250">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joshdroid250&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
