@@ -16,16 +16,16 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=1572B6)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-green?logo=HTML5&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-green?logo=CSS3&style=for-the-badge)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-white?logo=kotlin&style=for-the-badge)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=android-studio&style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/Git-white?logo=git&style=for-the-badge)&nbsp;
+![GitHub](https://img.shields.io/badge/Git%20Hub-blue?logo=github&style=for-the-badge)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?logo=visual-studio-code&style=for-the-badge)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-green?logo=eclipse-ide&style=for-the-badge)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
