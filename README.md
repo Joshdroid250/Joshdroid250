@@ -8,7 +8,7 @@
 💡 &nbsp;I love to practice with fun projects that motivate me to continue learning.\
 🎓 &nbsp;In the future I hope to stand out and contribute a lot to the community of programmers.\
 🌱 &nbsp;I love the style of material or minimalist design too much, both in web and mobile developments.\
-💬 &nbsp;In my spare time I like to learn new things about programming.\
+💬 &nbsp;In my spare time I like to learn new things about programming.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
