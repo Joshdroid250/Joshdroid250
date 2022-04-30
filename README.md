@@ -11,7 +11,7 @@
 💬 &nbsp;In my spare time I like to learn new things about programming.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://tenor.com/es/ver/coding-gif-18657810" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
