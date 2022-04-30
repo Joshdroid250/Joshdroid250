@@ -29,11 +29,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Joshdroid250">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joshdroid250&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Joshdroid250/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshdroid250&repo=github-readme-stats" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshdroid250&repo=convoychat" />
+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
