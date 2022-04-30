@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://github.com/Joshdroid250">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joshdroid250&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a></p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joshdroid250&show_icons=true&theme=algolia&include_commits=true&count_private=true"/></a></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
