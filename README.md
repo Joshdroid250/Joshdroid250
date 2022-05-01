@@ -24,7 +24,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?logo=android-studio&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/Git-white?logo=git&style=for-the-badge)&nbsp;
 ![GitHub](https://img.shields.io/badge/Git%20Hub-blue?logo=github&style=for-the-badge)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?logo=visual-studio-code&style=for-the-badge)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code&style=for-the-badge)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-green?logo=eclipse-ide&style=for-the-badge)
 
 ### ⚙️ &nbsp;GitHub Analytics
